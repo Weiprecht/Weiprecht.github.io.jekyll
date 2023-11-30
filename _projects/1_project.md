@@ -2,7 +2,7 @@
 layout: page
 title: Beer Industry Analysis
 description: Analysis of the US Beer industry for DDS mid-term project
-img: assets/img/beers.intro.pic.jpeg
+img: assets/img/beers.panel.pic.jpeg
 importance: 1
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
