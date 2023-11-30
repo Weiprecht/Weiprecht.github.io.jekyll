@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Workplace Attrition Analysis
+description: An analysis of employment attrition for DDS Final Project.
+img: assets/img/Attrition.intro.jpg
 importance: 2
-category: work
+category: SMU Projects
 giscus_comments: true
 ---
 
