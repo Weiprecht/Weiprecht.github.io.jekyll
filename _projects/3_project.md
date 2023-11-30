@@ -5,7 +5,7 @@ description: An assessment of Ames Iowa Real estate for SFDS Final Project.
 img: assets/img/realEstate.panel.jpg
 redirect: https://unsplash.com
 importance: 3
-category: work
+category: SMU Projects
 ---
 
 Every project has a beautiful feature showcase page.

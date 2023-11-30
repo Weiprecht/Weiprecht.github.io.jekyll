@@ -4,7 +4,7 @@ title: Workplace Attrition Analysis
 description: An analysis of employment attrition for DDS Final Project.
 img: assets/img/Attrition.intro.jpg
 importance: 2
-category: work
+category: SMU Projects
 giscus_comments: true
 ---
 
