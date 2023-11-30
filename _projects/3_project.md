@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
+title: Ames Housing Market Analysis
+description: An assessment of Ames Iowa Real estate for SFDS Final Project.
+img: assets/img/realEstate.panel.jpg
 redirect: https://unsplash.com
 importance: 3
 category: work

@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Statistical Insights: SMU Projects.
+description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
-display_categories: [SMU Projects, Placeholder SubCategories]
+display_categories: [work, fun]
 horizontal: false
 ---
 
