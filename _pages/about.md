@@ -19,9 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 Biography
-# Adam Ercanbrack is a native of Nebraska and lives in Virginia with his wife, Lynette, and eight kids. He graduated with a BA in Political Philosophy from Weber State University in 1999 and received a MA in International Relations, Middle East Studies from American University in 2003. Adam has extensive experience working in international relations, he enjoys European, East Asian, and US Colonial History, and has become a fan of coding.
+Adam Ercanbrack is a native of Nebraska and lives in Virginia with his wife, Lynette, and eight kids. He graduated with a BA in Political Philosophy from Weber State University in 1999 and received a MA in International Relations, Middle East Studies from American University in 2003. Adam has extensive experience working in international relations, he enjoys European, East Asian, and US Colonial History, and has become a fan of coding.
 
-# During the COVID lockdowns, Adam experimented with Python and decided he'd like to try a new career. He found a job as an Analytic Methodologist and applied for an academic program with his work that would allow him to study Data Science. Adam is currently   pursuing an MS in Data Science with SMU and is excited to stretch his mind and learn new things.
+During the COVID lockdowns, Adam experimented with Python and decided he'd like to try a new career. He found a job as an Analytic Methodologist and applied for an academic program with his work that would allow him to study Data Science. Adam is currently   pursuing an MS in Data Science with SMU and is excited to stretch his mind and learn new things.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
